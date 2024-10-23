@@ -1,0 +1,13 @@
+1 - Categorize cada um dos seguintes item como hardware ou software:
+  1. CPU
+    Resposta: Hardware
+  2. Disco Rígido
+    Resposta: Hardware
+  3. Programa Word
+    Resposta: Software
+  4. Instagram
+    Resposta: Software
+  5. Teclado
+    Resposta: Hardware
+
+2 - O que é software e qual sua importância
